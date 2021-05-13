@@ -1,0 +1,20 @@
+.grid-main {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: auto auto auto auto auto;
+}
+
+.main-header-text {
+    font-family: 'Raleway', sans-serif; 
+    font-size: 32px; 
+    font-weight: 700;
+}
+
+.header-text {
+    font-family: 'Raleway', sans-serif; 
+    font-size: 16px; 
+    font-weight: 700;
+}
+
+
+
